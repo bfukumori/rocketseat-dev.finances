@@ -18,7 +18,7 @@ O layout do site foi feito de maneira responsiva utilizando apenas o flexbox, se
 
 <h3>App</h3>
 <div align="center">
-    <img alt="devfinance" title="#devfinance" src="/devfinance.PNG">
+    <img alt="devfinance" title="#devfinance" src="/devfinances.PNG">
 </div>
 
 ---
